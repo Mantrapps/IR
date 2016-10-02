@@ -1,0 +1,25 @@
+Dear TA,
+
+How to excute this prorgam
+
+Scenrio-1: Use Cranfield
+Unzip the assignment and excuted the below scripts in csgrads1.utdallas.edu
+
+python Tokenize.py
+
+Scenrio-2: Use Sanda's Cranfield
+Unzip the assignment and excuted the below scripts in csgrads1.utdallas.edu
+
+python Tokenize.py Sanda
+
+What in the folder:
+- Stemming folder (including porter stemming algoritgm)
+- Tokenize.py (Program)
+- Readme.txt
+- Program_Description.docx(including all questions in assignment and program description)
+- Cranfield (text collection)
+
+Any questions please let me know.
+
+Regards,
+Kai
