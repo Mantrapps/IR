@@ -1,5 +1,4 @@
 # Information Retrieval Homework-3
-# Author: Kai Zhu <kxz160030@utdallas.edu>
 # 
 # abbreviation
 # tf: 				term frequency in one doc
